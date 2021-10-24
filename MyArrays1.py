@@ -4,7 +4,7 @@ import random
 arr01 = np.array([[1, 2, 3], [4, 5, 6]])
 
 arr02 = np.array([0.0, 0.1, 0.2, 0.3, 0.4])
-"""
+
 for row in arr01:
     print(row)
     for column in row:
@@ -13,7 +13,7 @@ for row in arr01:
 
 for i in arr01.flat:
     print(i)
-"""
+'''
 
 arr03 = np.zeros(5)
 
@@ -88,3 +88,4 @@ num13 = np.array([2, 4, 6])
 num14 = np.multiply(num12, num13)
 
 print()
+'''
